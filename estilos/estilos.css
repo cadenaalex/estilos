@@ -1,0 +1,18 @@
+/*Selector Universal*/
+*{
+    background-color: brown ;
+}
+/*h1{
+    color:red !important ;
+    text-align: center;
+}   
+
+/*Selectores de tipo ID*/
+#titulo{
+    color: rgb(241, 31, 12);
+    text-align: right;   
+}
+/*Slector tipo clase*/
+.letra_letra{ 
+color: rgb(6, 6, 255);
+}
